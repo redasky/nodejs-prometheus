@@ -10,7 +10,7 @@
     "express": "^4.13.4",
     "gc-stats": "^1.0.0",
     "prom-client": "^6.3.0",
-    "prometheus-gc-stats": "^0.3.1"
+    "prometheus-gc-stats": "^0.3.1",
     "mocha": "^2.4.5",
     "mongodb": "^2.1.16",
     "morgan": "^1.7.0",
